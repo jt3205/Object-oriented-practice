@@ -13,7 +13,7 @@ public class ObjectEx4 {
 		System.out.println("급여 : "+employee.getPay());
 		System.out.println("점수 : "+employee.getScore());
 		
-		employee.setEmployee("진달래","경리부",1200000,75.34);
+		employee.setEmployee("진달래", "경리부", 1200000, 75.34);
 		System.out.println(employee.toString());
 	}
 }
